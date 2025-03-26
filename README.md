@@ -1,15 +1,16 @@
 
 <div align="center">
   <img src="preview.jpg" alt="Preview" width="800">
-  <h1>𓆩𓆩𓆪𓆪asakue𓆩𓆩𓆪𓆪</h1>
+  <h1>𓆩𓆩𓆪𓆪𝓪̲𝓼̲𝓪̲𝓴̲𝓾̲𝓮̲𓆩𓆩𓆪𓆪</h1>
    <h1>⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</h1>
-  <p><i>Frontend Developer | AI Enthusiast | Student</i></p>
+  <p>
+𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 | 𝐴𝐼 𝐸𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡 | 𝑆𝑡𝑢𝑑𝑒𝑛𝑡
+</p>
 
 
-## 👨‍💻 О себе
-Я студент и Frontend-разработчик с глубоким интересом к искусственному интеллекту и современным веб-технологиям. Моя цель - создавать инновационные решения, которые делают технологии доступнее и удобнее для всех.
-
-## 🎯 Ключевые направления
+## 👨‍💻 О себе 👨‍💻
+꧁༺ Я студент и 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭-разработчик с глубоким интересом к искусственному интеллекту и современным веб-технологиям. ༻꧂
+## 🎯 Ключевые направления 🎯
  🌐 Разработка современных веб-приложений
  🧠 Изучение ML/AI технологий
  🔍 Оптимизация и улучшение кода
@@ -17,7 +18,7 @@
  🏆 Участие в хакатонах и конкурсах
  📚 Постоянное саморазвитие
 
-## 🛠️ Технический стек
+## 🛠️ Технический стек 🛠️
 
 **Языки программирования**  
 <div style="display: flex; gap: 10px; justify-content: center;">
@@ -49,11 +50,11 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&theme=tokyonight"/>
 
-## 📚 Образование
+## 🤓☝️ Образование ☝️🤓
 📍 **Донской государственный технический университет (ДГТУ)**
  🎓 Специальность: Программное обеспечение вычислительной техники и информационных систем | Информационные технологии
 
-## 📫 Связаться со мной
+## 📫 Связаться со мной 📫
 <div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://t.me/asakueqq">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
