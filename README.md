@@ -1,71 +1,71 @@
+
 <div align="center">
   <img src="preview.jpg" alt="Preview" width="800">
+  <h1>𓆩𓆩𓆪𓆪asakue𓆩𓆩𓆪𓆪</h1>
+   <h1>⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</h1>
+  <p><i>Frontend Developer | AI Enthusiast | Student</i></p>
+
+
+## 👨‍💻 О себе
+Я студент и Frontend-разработчик с глубоким интересом к искусственному интеллекту и современным веб-технологиям. Моя цель - создавать инновационные решения, которые делают технологии доступнее и удобнее для всех.
+
+## 🎯 Ключевые направления
+ 🌐 Разработка современных веб-приложений
+ 🧠 Изучение ML/AI технологий
+ 🔍 Оптимизация и улучшение кода
+ 🤝 Командная работа над проектами
+ 🏆 Участие в хакатонах и конкурсах
+ 📚 Постоянное саморазвитие
+
+## 🛠️ Технический стек
+
+**Языки программирования**  
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </div>
 
-## 🎓 Обо мне
-Привет! Меня зовут Даниил, я студент и Frontend разработчик с увлечением в области искусственного интеллекта и веб-технологий. Моя цель — создавать инновационные решения, которые делают мир лучше и технологичнее.
-
----
-
-### 🛠️ Навыки и технологии
-
-#### Языки программирования:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### Веб-разработка:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### Инструменты и платформы:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&theme=radical" alt="Статистика GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&theme=radical" alt="Топ языков">
+**Frontend & Backend**  
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </div>
 
----
+**Инструменты разработки**  
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</div>
 
-## 🎯 Мои цели
-- 🧠 Разработка интеллектуальных систем и ML-моделей.
-- 🌐 Создание современных веб-приложений с использованием React и Node.js.
-- 🔍 Оптимизация производительности алгоритмов и кода.
-- � Участие в AI хакатонах и разработка собственных проектов.
-- 📚 Постоянное обучение и улучшение навыков в области программирования и AI.
-
----
-
-## 🤝 Связь со мной
-Если у вас есть вопросы, предложения или вы хотите сотрудничать, не стесняйтесь связаться со мной:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asakueqq)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/asakueqq)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asakue)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurzhij.de@gs.donstu.ru)
-
----
-
+## 📊 GitHub Статистика
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&theme=tokyonight"/>
 
 ## 📚 Образование
-- **Университет**: ДГТУ
-- **Специальность**: Программное обеспечение вычислительной техники и информационных сиситем, информационные технологии.
-- **Годы обучения**: 2022
+📍 **Донской государственный технический университет (ДГТУ)**
+ 🎓 Специальность: Программное обеспечение вычислительной техники и информационных систем | Информационные технологии
 
----
+## 📫 Связаться со мной
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://t.me/asakueqq">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/asakueqq">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://github.com/asakue">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gurzhij.de@gs.donstu.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asakue&style=flat-square&color=blue" alt="Просмотры профиля">
+<img src="https://komarev.com/ghpvc/?username=asakue&style=flat-square&color=blue" alt="Profile views"/>
 </div>
