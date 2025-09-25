@@ -2,10 +2,18 @@
 <div align="center">
   <img src="preview.jpg" alt="Preview" width="800">
 
-  <p>Frontend Developer | AI Enthusiast | Student</p>
-</div>
+<div align="center">
 
----
+```javascript
+// Main.js
+const greeting = () => {
+  console.log("👋 Hi.my name is Asakue");
+  console.log("💻 Frontend/AI Developert");
+};
+
+greeting();
+```
+
 
 ## 👨‍💻 О себе
 Я студент и **Frontend-разработчик**, увлечённый искусственным интеллектом и современными веб-технологиями. Стремлюсь к созданию качественных решений и постоянному развитию.
