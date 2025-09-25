@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="preview.jpg" alt="Preview" width="800">
-  <h1>⎛⎝ ≽ > ⩊ < ≼ ⎠⎞</h1>
   <h1>𓆩𓆪 𝓪𝓼𝓪𝓴𝓾𝓮 𓆩𓆪</h1>
   <p>Frontend Developer | AI Enthusiast | Student</p>
 </div>
