@@ -7,8 +7,8 @@
 ```javascript
 // Main.js
 const greeting = () => {
-  console.log("👋 Hi.my name is Asakue");
-  console.log("💻 Frontend/AI Developert");
+  console.log("👋 Hi.my name is Gurzhij Daniil");
+  console.log("💻 Frontend/AI Developer");
 };
 
 greeting();
@@ -32,12 +32,12 @@ greeting();
 
 ### Языки программирования
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,python,cpp,cs&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,python,lua,flutter,cpp,dotnet,cs&perline=10" alt="Tech Stack" />
 </div>
 
 ### Инструменты и платформы
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ai&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,replit,sublime,vercel,windows,vscode,visualstudio,ai&perline=10" alt="Tools" />
 </div>
 
 ---
@@ -59,6 +59,11 @@ greeting();
   <h3>🎓 Донской государственный технический университет (ДГТУ)</h3>
   <p>Программное обеспечение вычислительной техники и автоматизированных систем</p>
   <p><em>Информационные технологии</em></p>
+  <h3>🎓 Донецкий Национальный Технический Университет (ДонНТУ)</h3>
+  <p>Полный курс программирования на C/C++</p>
+  <h3>🎓 Mimo GmbH</h3>
+  <p> Курс Full-Stack разработчик</p>
+  <p> Курс Python разработчик</p>
 </div>
 
 ---
