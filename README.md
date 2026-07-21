@@ -1,82 +1,72 @@
-
 <div align="center">
-  <img src="preview.jpg" alt="Preview" width="800">
+  <img src="preview.jpg" alt="Asakue preview" width="820">
 
-<div align="center">
+  <h1>Asakue / Gurzhiy Daniil</h1>
+  <p><b>Frontend / AI Developer</b></p>
 
-```javascript
-// Main.js
-const greeting = () => {
-  console.log("👋 Hi.my name is Gurzhij Daniil");
-  console.log("💻 Frontend/AI Developer");
-};
-
-greeting();
-```
-
-
-## 👨‍💻 О себе
-Я студент и **Frontend-разработчик**, увлечённый искусственным интеллектом и современными веб-технологиями. Стремлюсь к созданию качественных решений и постоянному развитию.
-
-## 🎯 Ключевые направления
-  🌐 Разработка современных веб-приложений  
-  🧠 Изучение ML/AI технологий  
-  🔍 Оптимизация и улучшение кода  
-  🤝 Командная работа над проектами  
-  🏆 Участие в хакатонах и конкурсах  
-  📚 Постоянное саморазвитие  
-
----
-
-## 🛠️ Технический стек
-
-### Языки программирования
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,python,lua,flutter,cpp,dotnet,cs&perline=10" alt="Tech Stack" />
+  <p>
+    <a href="https://asakue.github.io/portfolio/">Portfolio</a> ·
+    <a href="https://t.me/asakueqq">Telegram</a> ·
+    <a href="https://vk.com/asakueqq">VK</a> ·
+    <a href="https://instagram.com/asakueqq">Instagram</a>
+  </p>
 </div>
 
-### Инструменты и платформы
+## About
+
+Я студент и frontend-разработчик, которому интересны AI, современные веб-интерфейсы, Python, TypeScript, C++ и практичные продукты без лишнего визуального шума.
+
+## Stack
+
+![Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,python,cpp,cs,dotnet,git,github,docker,vscode,visualstudio,windows&perline=9)
+
+## Featured
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| [NOVA](https://github.com/asakue/NOVA) | TypeScript | TypeScript веб-проект с Pages-деплоем. |
+| [object-detector](https://github.com/asakue/object-detector) | Python | AI/computer vision проект для распознавания объектов. |
+| [Treeline-Tracker](https://github.com/asakue/Treeline-Tracker) | TypeScript | Проект с упором на интерфейс и работу с данными. |
+| [ArchFlow](https://github.com/asakue/ArchFlow) | TypeScript | Frontend-проект про архитектуру и визуальную структуру. |
+| [A-simple-nn-in-C-](https://github.com/asakue/A-simple-nn-in-C-) | C++ | Простая нейросеть на C++ для понимания ML-механики. |
+
+## All Repositories
+
+| Repository | Stack | Description |
+| --- | --- | --- |
+| [RB](https://github.com/asakue/RB) | Draft | Черновой репозиторий. |
+| [ryzhaya-yama](https://github.com/asakue/ryzhaya-yama) | Draft | Черновой репозиторий без публичного кода. |
+| [67](https://github.com/asakue/67) | C# | Учебный C# проект. |
+| [MVD-DB-IS](https://github.com/asakue/MVD-DB-IS) | C# | Информационная система с базой данных. |
+| [Game_booster](https://github.com/asakue/Game_booster) | Python | Python-утилита для оптимизации игрового окружения. |
+| [asakue](https://github.com/asakue/asakue) | Profile | GitHub profile README. |
+| [Treeline-Tracker](https://github.com/asakue/Treeline-Tracker) | TypeScript | Интерфейсный TypeScript-проект. |
+| [BioRitm](https://github.com/asakue/BioRitm) | TypeScript | Расчёт и визуализация биоритмов. |
+| [object-detector](https://github.com/asakue/object-detector) | Python | Детекция объектов и computer vision. |
+| [macane](https://github.com/asakue/macane) | CSS | Статическая визуальная страница. |
+| [QUantum-calc](https://github.com/asakue/QUantum-calc) | C++ | C++ вычислительный проект. |
+| [ArchFlow](https://github.com/asakue/ArchFlow) | TypeScript | Проект про структуру интерфейса. |
+| [seti-i-telekommunikatsii](https://github.com/asakue/seti-i-telekommunikatsii) | CSS | Учебный сайт по сетям. |
+| [portfolio](https://github.com/asakue/portfolio) | HTML | Статическое портфолио для GitHub Pages. |
+| [taskmeneger](https://github.com/asakue/taskmeneger) | JavaScript | Task manager для списка задач. |
+| [TurboTask](https://github.com/asakue/TurboTask) | Python | Python-проект для автоматизации. |
+| [NOVA](https://github.com/asakue/NOVA) | TypeScript | Современный frontend-проект. |
+| [personal-diary](https://github.com/asakue/personal-diary) | JavaScript | Личный дневник в браузере. |
+| [prezentator](https://github.com/asakue/prezentator) | TypeScript | Интерфейс для презентаций. |
+| [NotePro](https://github.com/asakue/NotePro) | JavaScript | Приложение для заметок. |
+| [2048](https://github.com/asakue/2048) | JavaScript | Браузерная игра 2048. |
+| [Weather-Today](https://github.com/asakue/Weather-Today) | TypeScript | Погодное приложение. |
+| [LuckyCasinoRoyal](https://github.com/asakue/LuckyCasinoRoyal) | CSS | Промо-интерфейс с ярким стилем. |
+| [SecureBank](https://github.com/asakue/SecureBank) | CSS | Макет банковского интерфейса. |
+| [Lucky-Casino-Royal](https://github.com/asakue/Lucky-Casino-Royal) | Draft | Версия проекта Lucky Casino Royal. |
+| [calculator](https://github.com/asakue/calculator) | CSS | Веб-калькулятор. |
+| [asakue-personalaccount](https://github.com/asakue/asakue-personalaccount) | CSS | Макет личного кабинета. |
+| [weathertoday](https://github.com/asakue/weathertoday) | JavaScript | Ранняя версия погодного приложения. |
+| [A-simple-nn-in-C-](https://github.com/asakue/A-simple-nn-in-C-) | C++ | Простая нейросеть на C++. |
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,replit,sublime,vercel,windows,vscode,visualstudio,ai&perline=10" alt="Tools" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
 </div>
-
----
-
-## 🏆 Достижения
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asakue&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
-
-
-</div>
-
----
-
-## 🎓 Образование
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
-  <h3>🎓 Донской государственный технический университет (ДГТУ)</h3>
-  <p>Программное обеспечение вычислительной техники и автоматизированных систем</p>
-  <p><em>Информационные технологии</em></p>
-  <h3>🎓 Донецкий Национальный Технический Университет (ДонНТУ)</h3>
-  <p>Полный курс программирования на C/C++</p>
-  <h3>🎓 Mimo GmbH</h3>
-  <p> Курс Full-Stack разработчик</p>
-  <p> Курс Python разработчик</p>
-</div>
-
----
-
-## 📫 Связаться со мной
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/asakueqq)](https://t.me/asakueqq)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/asakueqq)](https://vk.com/asakueqq)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/asakue)](https://github.com/asakue)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:example@mail.com)](mailto:example@mail.com)
-
-</div>
-
-
