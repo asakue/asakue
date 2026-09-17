@@ -45,9 +45,18 @@ greeting();
 
 </div>
 
+---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=asakue&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
 
 🌱 Currently
 
@@ -60,8 +69,6 @@ I'm currently interested in:
 🎨 Clean and interactive interfaces
 
 ---
-
-
 
 🎓 Education
 
