@@ -16,48 +16,40 @@ greeting();
 
 
 
-
-Languages
+## 🛠️ Tech Stack
 
 <div align="center">
+
+**💻 Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,lua&perline=6" />
 
-</div>
+**🎨 Frontend**
 
-Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs&perline=5" />
 
-<div align="center">
+**⚙️ Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vue&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,vite,tailwind&perline=4" />
 
-</div>
+**🗄️ Databases & ORM**
 
-Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,drizzle&perline=4" />
 
-<div align="center">
+**🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet&perline=4" />
+<img src="https://skillicons.dev/icons?i=opencv,numpy&perline=4" />
 
-</div>
+**🔥 AI & Cloud**
 
-Tools & Platforms
+<img src="https://skillicons.dev/icons?i=firebase&perline=4" />
 
-<div align="center">
+**🔧 Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,replit,windows&perline=6" />
 
 </div>
 
----
-
-🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Asakue&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
