@@ -49,6 +49,18 @@ greeting();
 
 ---
 
+🌱 Currently
+
+I'm currently interested in:
+
+🤖 AI-powered applications
+⚛️ Modern React / TypeScript development
+🧩 Full-stack architecture
+🛠️ Developer tools and automation
+🎨 Clean and interactive interfaces
+
+---
+
 
 
 🎓 Education
