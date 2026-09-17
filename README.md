@@ -15,7 +15,6 @@ greeting();
 ```
 
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -36,19 +35,16 @@ greeting();
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,drizzle&perline=4" />
 
-**🤖 AI / ML**
-
-<img src="https://skillicons.dev/icons?i=opencv,numpy&perline=4" />
-
 **🔥 AI & Cloud**
 
-<img src="https://skillicons.dev/icons?i=firebase&perline=4" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 
 **🔧 Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,replit,windows&perline=6" />
 
 </div>
+
 
 
 ---
