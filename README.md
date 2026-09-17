@@ -15,58 +15,79 @@ greeting();
 ```
 
 
-## 👨‍💻 О себе
-Я студент и **Frontend-разработчик**, увлечённый искусственным интеллектом и современными веб-технологиями. Стремлюсь к созданию качественных решений и постоянному развитию.
 
-## 🎯 Ключевые направления
-  🌐 Разработка современных веб-приложений  
-  🧠 Изучение ML/AI технологий  
-  🔍 Оптимизация и улучшение кода  
-  🤝 Командная работа над проектами  
-  🏆 Участие в хакатонах и конкурсах  
-  📚 Постоянное саморазвитие  
 
----
-
-## 🛠️ Технический стек
-
-### Языки программирования
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,python,lua,flutter,cpp,dotnet,cs&perline=10" alt="Tech Stack" />
-</div>
-
-### Инструменты и платформы
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,replit,sublime,vercel,windows,vscode,visualstudio,ai&perline=10" alt="Tools" />
-</div>
-
----
-
-## 🏆 Достижения
+Languages
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Asakue&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,lua&perline=6" />
 
+</div>
+
+Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue&perline=4" />
+
+</div>
+
+Backend & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet&perline=4" />
+
+</div>
+
+Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,replit,windows&perline=6" />
 
 </div>
 
 ---
 
-## 🎓 Образование
+🔥 Contribution Streak
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 20px 0;">
-  <h3>🎓 Донской государственный технический университет (ДГТУ)</h3>
-  <p>Программное обеспечение вычислительной техники и автоматизированных систем</p>
-  <p><em>Информационные технологии</em></p>
-  <h3>🎓 Донецкий Национальный Технический Университет (ДонНТУ)</h3>
-  <p>Полный курс программирования на C/C++</p>
-  <h3>🎓 Mimo GmbH</h3>
-  <p> Курс Full-Stack разработчик</p>
-  <p> Курс Python разработчик</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Asakue&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
+
+
+
+🎓 Education
+
+<div align="center">
+
+🎓 Донской государственный технический университет — ДГТУ
+
+Программное обеспечение вычислительной техники и автоматизированных систем (2022-2024)
+
+Информационные технологии (2024-now)
+
+🎓 Донецкий национальный технический университет — ДонНТУ
+
+Полный курс программирования на C/C++ (2021)
+
+🎓 Mimo GmbH
+
+Full-Stack Developer (2024)
+
+Python Developer (2022)
+
+</div>
+
+---
+
+
 
 ## 📫 Связаться со мной
 
