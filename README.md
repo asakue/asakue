@@ -21,11 +21,11 @@ greeting();
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,lua&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,rust,lua&perline=6" />
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,nextjs&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs&perline=5" />
 
 **⚙️ Backend & Frameworks**
 
