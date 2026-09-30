@@ -51,7 +51,7 @@ greeting();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asakue&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=asakue&theme=dark-smoky&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
