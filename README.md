@@ -21,19 +21,19 @@ greeting();
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,rust,lua&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,rust,lua" />
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs" />
 
 **⚙️ Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,vite,tailwind&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,vite,tailwind" />
 
 **🗄️ Databases & ORM**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,drizzle&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,drizzle" />
 
 **🔥 AI & Cloud**
 
@@ -41,7 +41,7 @@ greeting();
 
 **🔧 Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,replit,windows&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,supabase,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,postman,replit,windows,kali&perline=7" />
 
 </div>
 
