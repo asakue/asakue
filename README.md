@@ -2,14 +2,17 @@
 <div align="center">
   <img src="preview.jpg" alt="Preview" width="800">
 
-<div style="display: flex; justify-content: center;">
-  <pre style="text-align: left;"><code class="language-javascript">// Main.js
+<div align="center">
+
+```javascript
+// Main.js
 const greeting = () => {
   console.log("👋 Hi.my name is Gurzhij Daniil");
   console.log("💻 Frontend/AI Developer");
 };
 
-greeting();</code></pre>
+greeting();
+```
 </div>
 
 ## 🛠️ Tech Stack
