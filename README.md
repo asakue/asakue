@@ -13,7 +13,7 @@ const greeting = () => {
 
 greeting();
 ```
-
+</div>
 
 ## 🛠️ Tech Stack
 
