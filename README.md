@@ -51,7 +51,16 @@ greeting();
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asakue&theme=dark-smoky&hide_border=true" alt="GitHub Streak" />
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&hide_border=true&bg_color=00000000&title_color=E3C565&text_color=AAB8A2&icon_color=82996D"
+     alt="GitHub stats"/>
+
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&hide_border=true&bg_color=00000000&title_color=E3C565&text_color=AAB8A2"
+     alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=asakue&hide_border=true&background=00000000&ring=E3C565&fire=E3C565&currStreakLabel=AAB8A2&sideLabels=AAB8A2&dates=788574&currStreakNum=E7ECE3&sideNums=E7ECE3"
+     alt="GitHub streak"/>
 
 </div>
 
