@@ -79,9 +79,10 @@ greeting();
   </p>
 
 </div>
+
 ---
 
-🎓 Education
+## 🎓 Education
 
 <div align="center">
 
