@@ -60,12 +60,12 @@ greeting();
   <p align="center">
     <a href="https://github.com/asakue">
       <img height="165"
-           src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&icon_color=82996D&border_color=21262D"
+           src="https://github-stats-extended.vercel.app/api?username=asakue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&icon_color=82996D&border_color=21262D"
            alt="GitHub stats"/>
     </a>
     <a href="https://github.com/asakue">
       <img height="165"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&border_color=21262D"
+           src="https://github-stats-extended.vercel.app/api/top-langs/?username=asakue&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&border_color=21262D"
            alt="Top languages"/>
     </a>
   </p>
