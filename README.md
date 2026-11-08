@@ -82,6 +82,27 @@ greeting();
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+  <a href="https://github.com/asakue?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95" alt="Pull Shark" title="Pull Shark" />
+  </a>
+  <a href="https://github.com/asakue?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95" alt="YOLO" title="YOLO" />
+  </a>
+  <a href="https://github.com/asakue?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95" alt="Quickdraw" title="Quickdraw" />
+  </a>
+  <a href="https://github.com/asakue?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  </a>
+
+</div>
+
+---
+
 ## 🎓 Education
 
 <div align="center">
