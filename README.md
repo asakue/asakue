@@ -1,124 +1,96 @@
-
 <div align="center">
-  <img src="preview.jpg" alt="Preview" width="800">
+  <img src="preview.jpg" alt="Banner" width="100%" style="border-radius: 8px;">
 
-<div align="center">
+  <br><br>
 
-```javascript
-// Main.js
-const greeting = () => {
-  console.log("👋 Hi.my name is Gurzhij Daniil");
-};
+  <h1>Daniil Gurzhiy (asakue)</h1>
+  <p><b>Software Engineer • Systems, Cloud-Native & Full-Stack Development</b></p>
 
-greeting();
+  <p>
+    <a href="https://github.com/asakue?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Projects-00e5ff?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+    <a href="https://asakue.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://t.me/asakueqq"><img src="https://img.shields.io/badge/Telegram-Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
+</div>
+
+---
+
+### 🚀 Флагманские проекты (Featured Projects)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐳 <a href="https://github.com/asakue/Local-Docker-Memory-CPU-Optimizer">dockertrim</a></h3>
+      <p><b>Go • Bubble Tea • Docker Engine API</b></p>
+      <p>Легковесная терминальная CLI/TUI-утилита для гигиены Docker на локальной машине: обнаружение утечек памяти в фоновых контейнерах, детекция «зомби»-сервисов и безопасная очистка диска без риска случайно повредить базы данных (Zero-Accident Design).</p>
+      <p>
+        <a href="https://github.com/asakue/Local-Docker-Memory-CPU-Optimizer/releases"><img src="https://img.shields.io/github/v/release/asakue/Local-Docker-Memory-CPU-Optimizer?color=00D7D7&style=flat-square" alt="Release" /></a>
+        <img src="https://img.shields.io/badge/Zero--Accident-Volumes_Guard-success?style=flat-square" alt="Guard" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📽️ <a href="https://github.com/asakue/android-projector-optimizer">Android Projector Optimizer</a></h3>
+      <p><b>Desktop • ADB Engine • Hardware Tuning</b></p>
+      <p>Десктопное приложение для ускорения и деблоатинга Android-проекторов (Magcubic, Wanbo). Сканирование Wi-Fi подсети без ручного ввода IP, безопасное отключение телеметрии и виртуальный пульт D-Pad с ПК.</p>
+      <p>
+        <a href="https://github.com/asakue/android-projector-optimizer/releases"><img src="https://img.shields.io/github/v/release/asakue/android-projector-optimizer?color=00e5ff&style=flat-square" alt="Release" /></a>
+        <img src="https://img.shields.io/badge/Platform-Windows_Portable-10b981?style=flat-square" alt="Windows" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌲 <a href="https://github.com/asakue/Treeline-Tracker">Treeline Tracker</a></h3>
+      <p><b>Next.js 15 • TypeScript • Firebase • E2EE</b></p>
+      <p>Защищенная офлайн-платформа для координации туристических групп и содействия поисково-спасательным операциям (SAR). Расчет энергозатрат по уравнению Минетти, геопривязка без интернета и сквозное шифрование W3C Web Crypto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Architecture-Feature_Sliced_Design-purple?style=flat-square" alt="FSD" />
+        <img src="https://img.shields.io/badge/Offline--First-IndexedDB-orange?style=flat-square" alt="Offline" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✝️ <a href="https://github.com/asakue/Orthodox-calendar">Святцы (Orthodox Calendar)</a></h3>
+      <p><b>Android • Kotlin • Jetpack Compose • Room</b></p>
+      <p>Автономное мобильное приложение для Android: канонический астрономический расчет Александрийской Пасхалии, правила постов, молитвослов и интерактивный виджет для рабочего стола.</p>
+      <p>
+        <img src="https://img.shields.io/badge/UI-Material_3-blue?style=flat-square" alt="Material 3" />
+        <img src="https://img.shields.io/badge/Data-100%25_Offline-success?style=flat-square" alt="Offline" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Технологический стек
+
+```text
+● Языки программирования : Go, TypeScript, JavaScript, Kotlin, Python, C/C++
+● Системы и DevOps      : Docker, Linux / WSL2, Git, GitHub Actions, CI/CD
+● Frontend & Web         : Next.js 15, React, Tailwind CSS, Vite, HTML/CSS
+● Базы данных и Cloud    : PostgreSQL, SQLite / Room, Firebase, Supabase, IndexedDB
 ```
 
-<p align="center">
-  <a href="https://github.com/asakue"><img src="https://img.shields.io/badge/●_ML_%2F_CV-0D1117?style=for-the-badge&logo=python&logoColor=82996D&labelColor=161B22" alt="ML/CV"></a>
-  <a href="https://github.com/asakue"><img src="https://img.shields.io/badge/●_Web_Stack-0D1117?style=for-the-badge&logo=react&logoColor=E3C565&labelColor=161B22" alt="Web"></a>
-  <a href="https://github.com/asakue"><img src="https://img.shields.io/badge/●_Automation-0D1117?style=for-the-badge&logo=selenium&logoColor=788574&labelColor=161B22" alt="Automation"></a>
-  <a href="https://github.com/asakue"><img src="https://img.shields.io/badge/●_Project_Management-0D1117?style=for-the-badge&logo=jira&logoColor=AAB8A2&labelColor=161B22" alt="Project Management"></a>
-  <a href="https://github.com/asakue"><img src="https://img.shields.io/badge/●_System_Analysis-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=566246&labelColor=161B22" alt="System Analysis"></a>
-</p>
+---
 
-## 🛠️ Tech Stack
+### 🎓 Образование
 
-<div align="center">
-
-**💻 Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,rust,lua" />
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,angular,nextjs" />
-
-**⚙️ Backend & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,vite,tailwind" />
-
-**🗄️ Databases & ORM**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,drizzle" />
-
-**🔥 AI & Cloud**
-
-<img src="https://skillicons.dev/icons?i=firebase" />
-
-**🔧 Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,supabase,npm,pnpm,docker,powershell,vscode,visualstudio,vercel,postman,replit,windows,kali&perline=7" />
-
-</div>
+* 🎓 **Донской государственный технический университет (ДГТУ)**  
+  *Информационные технологии (2024 — н.в.)*  
+  *Программное обеспечение вычислительной техники и автоматизированных систем (2022–2024)*
+* 🎓 **Донецкий национальный технический университет (ДонНТУ)**  
+  *Курс алгоритмов и программирования на C/C++*
+* 🎓 **Mimo GmbH**  
+  *Full-Stack Web Development (2024) • Python Programming (2022)*
 
 ---
 
-## 🔥 Contribution Streak
+### 📫 Контакты
 
 <div align="center">
 
-  <p align="center">
-    <a href="https://github.com/asakue">
-      <img height="165"
-           src="https://github-readme-stats.vercel.app/api?username=asakue&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&icon_color=82996D&border_color=21262D"
-           alt="GitHub stats"/>
-    </a>
-    <a href="https://github.com/asakue">
-      <img height="165"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakue&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C565&text_color=E7ECE3&border_color=21262D"
-           alt="Top languages"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/asakue">
-      <img
-           src="https://streak-stats.demolab.com?user=asakue&hide_border=true&background=0D1117&ring=E3C565&fire=E3C565&currStreakLabel=E3C565&sideLabels=E7ECE3&dates=788574&currStreakNum=E7ECE3&sideNums=E7ECE3&stroke=21262D&border=21262D"
-           alt="GitHub streak"/>
-    </a>
-  </p>
+[![Telegram](https://img.shields.io/badge/Telegram-@asakueqq-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asakueqq)
+[![VK](https://img.shields.io/badge/VK-asakueqq-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/asakueqq)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asakue.github.io-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asakue.github.io/portfolio/)
 
 </div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-🎓 Донской государственный технический университет — ДГТУ
-
-Программное обеспечение вычислительной техники и автоматизированных систем (2022-2024)
-
-Информационные технологии (2024-present)
-
-🎓 Донецкий национальный технический университет — ДонНТУ
-
-Полный курс программирования на C/C++ (2021)
-
-🎓 Mimo GmbH
-
-Full-Stack Developer (2024)
-
-Python Developer (2022)
-
-</div>
-
----
-
-## 📫 Связаться со мной
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/asakueqq)](https://t.me/asakueqq)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/asakueqq)](https://vk.com/asakueqq)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/asakue)](https://github.com/asakue)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:example@mail.com)](mailto:example@mail.com)
-
-<img src="https://komarev.com/ghpvc/?username=asakue&label=Profile+views&color=E3C565&style=flat-square" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=82996D&height=90&section=footer" width="100%" alt="footer"/>
-
-</div>
-
-
